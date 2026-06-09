@@ -18,7 +18,7 @@ Completed forensic data analysis as part of Deloitte's Virtual Experience Progra
 - `Equality Table_Devendra.xlsx` - Processed Excel Data
 - `dashboard-screenshot.png` - Dashboard Preview
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot](dashboard-screenshot.png.png)
 
 ## 📚 Skills Demonstrated
 Data Cleaning, Forensic Analysis, Tableau Visualization, Excel Reporting
